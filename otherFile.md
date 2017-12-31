@@ -1,1 +1,2 @@
 Other file.
+New line.
